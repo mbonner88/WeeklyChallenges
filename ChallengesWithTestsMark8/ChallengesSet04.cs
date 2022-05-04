@@ -60,7 +60,7 @@ namespace ChallengesWithTestsMark8
             }
             return 0;
         }
-
+        
         public int Factorial(int number)
         {
             if(number < 0)
